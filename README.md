@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **React, Tailwind CSS and Java**
 
-- 📫 How to reach me **celestialairslice@gmail.com**
+- 📫 How to reach me **shanitpaul22@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PN5unCGB4WeJYOjh0ETF7HqkLFmPoZYp/view?usp=sharing](https://drive.google.com/file/d/1PN5unCGB4WeJYOjh0ETF7HqkLFmPoZYp/view?usp=sharing)
 
-- ⚡ Fun fact **I love Football and a die hard Cule.**
+- ⚡ Fun fact about me: **I love Football and I'm a die hard Cule.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
