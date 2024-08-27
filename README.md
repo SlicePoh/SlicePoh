@@ -1,25 +1,25 @@
 <h1 align="center">Hello, I'm Shanit Paul,</h1>
-<h3 align="center">A Frontend Web Developer(aspiring to be full stack) from India,</h3>
+<h3 align="center">A Full Stack Developer from India, adept in Angular and MERN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slicepoh&label=Profile%20views&color=0e75b6&style=flat" alt="slicepoh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slicepoh" alt="slicepoh" /></a> </p>
 
-- 🔭 I’m currently working on [Qnect](https://github.com/SlicePoh/qnect.git)
+- 🔭 I’m currently working on [Rust](https://github.com/SlicePoh/rust-mini-projects.git)
 
-- 🌱 I’m currently learning **Express, Mongodb (Backend part of MERN)**
+- 🌱 I’m currently learning **Advance Java and Rust**
 
-- 🤝 I’m looking for help with [Ambule](https://github.com/SlicePoh/ambule.git)
+- 🤝 I’m looking for help with [Qnect](https://github.com/SlicePoh/qnect.git)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-shanit.netlify.app/](https://portfolio-shanit.netlify.app/)
 
-- 💬 Ask me about **React, Tailwind CSS and Java**
+- 💬 Ask me about **React, Typescript and Java**
 
 - 📫 How to reach me **shanitpaul22@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PN5unCGB4WeJYOjh0ETF7HqkLFmPoZYp/view?usp=sharing](https://drive.google.com/file/d/1PN5unCGB4WeJYOjh0ETF7HqkLFmPoZYp/view?usp=sharing)
 
-- ⚡ Fun fact about me: **I love Football and I'm a die hard Cule.**
+- ⚡ Fun fact about me: **I love Football and I'm a die-hard Cule.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
