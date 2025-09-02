@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slicepoh" alt="slicepoh" /></a> </p>
 
-- 🔭 I’m currently working on [Rust](https://github.com/SlicePoh/rust-mini-projects.git)
+- 🔭 I’m currently working on [Redo](https://github.com/SlicePoh/redo-one.git)
 
-- 🌱 I’m currently learning **Advance Java and Rust**
+- 🌱 I’m currently learning **Flask and Rust**
 
 - 🤝 I’m looking for help with [Qnect](https://github.com/SlicePoh/qnect.git)
 
